@@ -1,0 +1,1 @@
+import { GfxBlockElementModel } from '@blocksuite/block-std/gfx';

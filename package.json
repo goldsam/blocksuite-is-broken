@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@blocksuite/block-std": "^0.16.0-canary-202407291311-1911dca"
+  }
+}
